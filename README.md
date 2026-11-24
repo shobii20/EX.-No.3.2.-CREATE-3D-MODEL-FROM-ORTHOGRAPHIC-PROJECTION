@@ -1,3 +1,4 @@
+[Exercise_3_2_Shobashree.pdf](https://github.com/user-attachments/files/35360170/Exercise_3_2_Shobashree.pdf)
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 ## AIM:
@@ -41,7 +42,10 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
-## OUTPUT:
+## OUTPUT
+[Exercise_3_2_Shobashree.pdf](https://github.com/user-attachments/files/35360189/Exercise_3_2_Shobashree.pdf)
+
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
